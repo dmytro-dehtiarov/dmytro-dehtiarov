@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Dmytro Dehtiarov
 
-<!--
-**dmytro-dehtiarov/dmytro-dehtiarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Programming student at Algonquin College, Ottawa.
 
-Here are some ideas to get you started:
+- Building full-stack web apps with Java, JavaScript and SQL Server
+- Working across HTML/CSS, PHP, and Next.js
+- Currently focused on: databases, OOP, software design
+- Based in Ottawa, Ontario, Canada
+- Open to co-op & internship opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Java · JavaScript · TypeScript · React · Next.js · Node.js · HTML/CSS · SQL Server · Azure SQL · T-SQL · Git · Linux
+
+## Find me
+- [Portfolio](#)
+- [LinkedIn](https://www.linkedin.com/in/dmytro-dehtiarov-7aa991253/)
