@@ -12,5 +12,5 @@ Computer Programming student at Algonquin College, Ottawa.
 Java · JavaScript · TypeScript · React · Next.js · Node.js · HTML/CSS · SQL Server · Azure SQL · T-SQL · Git · Linux
 
 ## Find me
-- [Portfolio](#)
+- [Portfolio](https://dmytro-dehtiarov.github.io/portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/dmytro-dehtiarov-7aa991253/)
