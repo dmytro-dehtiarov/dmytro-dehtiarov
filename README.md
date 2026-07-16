@@ -15,7 +15,7 @@ Computer Programming student at Algonquin College, Ottawa (3.9 GPA, Dean's Honou
 - Sports League Management Database — T-SQL database with stored procedures, UDFs, and ROLLUP reporting, deployed on Azure SQL (see portfolio for details)
 ## Tech Stack
  
-Java · Spring Boot · JavaScript · TypeScript · React · Next.js · Node.js · HTML/CSS · PHP · Oracle · PostgreSQL · SQL Server · Azure SQL · T-SQL · Docker · Git · Linux
+Java · Spring Boot · JavaScript · TypeScript · React · Node.js · Express.js · HTML/CSS · Oracle · PostgreSQL · SQL Server · Azure SQL · T-SQL · Docker · Git · Linux
  
 ## Find me
  
