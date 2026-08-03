@@ -19,6 +19,6 @@ Java · Spring Boot · JavaScript · TypeScript · React · Node.js · Express.j
  
 ## Find me
  
-- Portfolio: [dmytro-dehtiarov.github.io/portfolio](http://dmytro-dehtiarov.com/)
+- Portfolio: [dmytro-dehtiarov.com](http://dmytro-dehtiarov.com/)
 - LinkedIn: [linkedin.com/in/dmytro-dehtiarov](https://www.linkedin.com/in/dmytro-dehtiarov-7aa991253/)
 - Email: degtyarev.dmitry02@gmail.com
