@@ -10,12 +10,13 @@ Computer Programming student at Algonquin College, Ottawa (3.9 GPA, Dean's Honou
 ## Projects
  
 - **[order-inventory-platform](https://github.com/dmytro-dehtiarov/order-inventory-platform)** — production-style order and inventory backend in Java 17 / Spring Boot 3, with a modular monolith architecture, JWT auth, Oracle + Flyway, Docker, and tests written with JUnit, Mockito, and a dedicated Oracle test schema
+- **[study-spot-finder](https://github.com/dmytro-dehtiarov/StudySpotFinder)** — full-stack app for finding and rating study spots by outlets, WiFi, hours, and AC; Node.js/Express backend, MongoDB/Mongoose, server-rendered Pug views, Leaflet maps, session auth with CSRF protection, deployed on Vercel as a serverless function. Started as a group project for CST8326 (Algonquin college)
 - **[portfolio](http://dmytro-dehtiarov.com/)** — personal portfolio site built with vanilla HTML, CSS, and JavaScript, no frameworks
 - **[telegram-media-downloader](https://github.com/dmytro-dehtiarov/telegram-media-downloader)** — Python CLI tool using Telethon to bulk download media from Telegram channels and chats
 - Sports League Management Database — T-SQL database with stored procedures, UDFs, and ROLLUP reporting, deployed on Azure SQL (see portfolio for details)
 ## Tech Stack
  
-Java · Spring Boot · JavaScript · TypeScript · React · Node.js · Express.js · HTML/CSS · Oracle · PostgreSQL · SQL Server · Azure SQL · T-SQL · Docker · Git · Linux
+Java · Spring Boot · JavaScript · TypeScript · React · Node.js · Express.js · HTML/CSS · MongoDB · Oracle · PostgreSQL · SQL Server · Azure SQL · T-SQL · Docker · Git · Linux
  
 ## Find me
  
